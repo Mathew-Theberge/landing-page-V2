@@ -10,7 +10,7 @@
   background-color: #1F2937;
   display: flex;
   align-items: center;
-  padding: 8px 128px;
+  padding: 16px 128px;
   justify-content: space-between;
 }
 
@@ -127,10 +127,9 @@
 .call-to-action-section button {
   color: #F9FAF8;
   background-color: #3882F6;
-  padding: 4px 24px;
+  padding: 8px 32px;
   border-radius: 8px;
   border-color: #F9FAF8;
-  max-height: 32px;
 }
 
 .call-to-action-section {
@@ -140,6 +139,7 @@
   justify-content: space-around;
   margin: 64px 128px;
   align-items: center;
+  gap: 16px;
 }
 
 .call-to-action-section h3 {
