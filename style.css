@@ -68,3 +68,33 @@
   font-weight: 700;
   max-width: fit-content;
 }
+
+
+/* INFO SECTION CSS */
+
+
+.info-image-container {
+  display: flex;
+  text-align: center;
+  gap: 48px;
+  padding-bottom: 86px;
+  justify-content: center;
+}
+
+.info-section h2 {
+  text-align: center;
+  padding: 32px 0px;
+  font-weight: 900;
+  font-size: 36px;
+  color: #1F2937;
+}
+
+.info-image {
+  max-width: 150px;
+}
+
+.info-image img {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #3882F6;
+}
